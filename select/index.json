@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "RAIN",
   "base_artist": "SEKAI NO OWARI",
-  "createdAt": "2026-02-27T05:02:29.164407Z",
+  "createdAt": "2026-03-26T14:45:02.735145Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "SEKAI NO OWARI",
       "has_synced": false,
       "path": "select/pl_01_RAIN_SEKAI_NO_OWARI.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "RAIN",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/localdb_01_RAIN_SEKAI_NO_OWARI.txt",
+      "repo_name": "PBlOi5OVcKs"
     }
   ]
 }
